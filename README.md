@@ -4,8 +4,9 @@ Unity project for interacting with Spotify in virtual reality for the Oculus Rif
 
 ![alt text](https://i.imgur.com/ZP7kIFR.jpg)
 
-# installation
-Simply have the data folder in the same folder as the .exe and launch.
+# Set up
+Enable "Unkown sources" in the oculus destop app in Settings -> General.
+Have the data folder in the same folder as the .exe and launch.
 
 # instructions
 Your browser will be opened for you to sign in to your Spotify account.
