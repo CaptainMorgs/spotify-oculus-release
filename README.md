@@ -15,6 +15,8 @@ There will be no Spotify data on first launch so hit the "Reload" button on the 
 Spotify data is saved at the location of your devices application persistant data path as specified here https://docs.unity3d.com/ScriptReference/Application-persistentDataPath.html 
 
 Example of location
+
 ![alt text](https://i.imgur.com/Fp2UdnN.png)
+
 
 If songs are not playing, play a song on your Spotify client, an active device must be present for songs to play.
