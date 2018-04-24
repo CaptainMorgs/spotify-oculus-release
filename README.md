@@ -15,7 +15,7 @@ Have the data folder in the same folder as the .exe and launch.
 # Instructions
 Your browser will be opened for you to sign in to your Spotify account.
 
-There will be no Spotify data on first launch so hit the "Reload" button on the UI on your left hand (see trailer if you are having trouble finding it). It will take approx 2 mins to load. Hit the "Save" button once everything has loaded to save it and it load on the next start up.
+There will be no Spotify data on first launch so hit the "Reload" button on the UI on your left hand (see trailer if you are having trouble finding it). It will take approx 2 mins to load. Hit the "Save" button once everything has loaded to save it and it will load on the next start up.
 
 Spotify data is saved at the location of your devices application persistant data path as specified here https://docs.unity3d.com/ScriptReference/Application-persistentDataPath.html 
 
